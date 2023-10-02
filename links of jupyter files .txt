@@ -1,0 +1,31 @@
+links of jupytr files 
+
+QUERY 1,2-       
+
+http://localhost:8890/notebooks/query1%2C2_.ipynb
+
+QUERY 3-
+
+http://localhost:8890/notebooks/query3.ipynb
+
+QUERY4-
+
+http://localhost:8890/notebooks/query4.ipynb
+
+QUERY5
+
+http://localhost:8890/notebooks/query5.ipynb
+
+QUERY6
+
+http://localhost:8890/notebooks/query6.ipynb
+
+
+QUERY7
+
+http://localhost:8890/notebooks/query7%2Cforbes.ipynb
+
+
+QUERY9
+
+http://localhost:8890/notebooks/query9.ipynb
